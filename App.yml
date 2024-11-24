@@ -1,0 +1,4 @@
+runtime: python 3.12.2
+handlers:
+- url : /
+static_files:
